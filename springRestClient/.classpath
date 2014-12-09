@@ -5,5 +5,9 @@
 	<classpathentry kind="lib" path="lib/org.springframework.web-3.0.5.RELEASE.jar" sourcepath="D:/JAVA_plugins/my_maven/respon/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="lib/org.springframework.core-3.0.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/json_simple-1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
